@@ -1,5 +1,4 @@
-/*문제 : time caculation*/
-#include <iostream>
+/*문제 : time caculatio
 #include <fstream>
 #include <cstdlib>
 
